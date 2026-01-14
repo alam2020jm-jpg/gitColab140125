@@ -1,5 +1,5 @@
 threshold_value={
-                "minQtyThreshold" :1000,
+                "minQtyThreshold":1000,
                 "TickSize":0.05,
                 "minTickProximty":1,
                 "maxTickProximity":5,
