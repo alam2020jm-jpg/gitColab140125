@@ -1,0 +1,17 @@
+threshold_value={
+minQtyThreshold :1000,
+TickSize:0.05,
+minTickProximty:1,
+maxTickProximity:5,
+ReductionStartOffset:500,
+ReductionDuration:1500,
+minOrderReductionThreshold:0.2,
+minTickReEntranceProximity:1,
+maxTickReEntraceProximity:3,
+minTickChange:1,
+epsilon:0.003,
+reEntranceWindowDuration:60,
+minReEntryQuantity:0.5,
+MinAvgTickSpread:6,
+MinMaxTickSpread:10 
+}
