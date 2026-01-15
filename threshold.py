@@ -10,7 +10,7 @@ threshold_value={
                 "maxTickReEntraceProximity":3,
                 "minTickChange":1,
                 "epsilon":0.003,
-                "reEntranceWindowDuration":60,
+                "reEntranceWindowDuration":6060,
                 "minReEntryQuantity":0.5,
                 "MinAvgTickSpread":6,
                 "MinMaxTickSpread":10
